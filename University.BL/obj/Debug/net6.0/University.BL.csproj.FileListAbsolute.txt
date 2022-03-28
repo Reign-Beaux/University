@@ -1,0 +1,17 @@
+E:\Documentos\ProjectsC#\University\University.BL\bin\Debug\net6.0\University.BL.deps.json
+E:\Documentos\ProjectsC#\University\University.BL\bin\Debug\net6.0\University.BL.runtimeconfig.json
+E:\Documentos\ProjectsC#\University\University.BL\bin\Debug\net6.0\University.BL.dll
+E:\Documentos\ProjectsC#\University\University.BL\bin\Debug\net6.0\University.BL.pdb
+E:\Documentos\ProjectsC#\University\University.BL\obj\Debug\net6.0\University.BL.csproj.AssemblyReference.cache
+E:\Documentos\ProjectsC#\University\University.BL\obj\Debug\net6.0\University.BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documentos\ProjectsC#\University\University.BL\obj\Debug\net6.0\University.BL.AssemblyInfoInputs.cache
+E:\Documentos\ProjectsC#\University\University.BL\obj\Debug\net6.0\University.BL.AssemblyInfo.cs
+E:\Documentos\ProjectsC#\University\University.BL\obj\Debug\net6.0\University.BL.csproj.CoreCompileInputs.cache
+E:\Documentos\ProjectsC#\University\University.BL\obj\Debug\net6.0\University.BL.dll
+E:\Documentos\ProjectsC#\University\University.BL\obj\Debug\net6.0\refint\University.BL.dll
+E:\Documentos\ProjectsC#\University\University.BL\obj\Debug\net6.0\University.BL.pdb
+E:\Documentos\ProjectsC#\University\University.BL\obj\Debug\net6.0\University.BL.genruntimeconfig.cache
+E:\Documentos\ProjectsC#\University\University.BL\obj\Debug\net6.0\ref\University.BL.dll
+E:\Documentos\ProjectsC#\University\University.BL\bin\Debug\net6.0\University.Data.dll
+E:\Documentos\ProjectsC#\University\University.BL\bin\Debug\net6.0\University.Data.pdb
+E:\Documentos\ProjectsC#\University\University.BL\obj\Debug\net6.0\University.BL.csproj.CopyComplete
